@@ -7,4 +7,4 @@ command:
   - "$DATABRICKS_APP_PORT"
 env:
   - name: GENIE_SPACE_ID
-    value: ""
+    value: "<your-genie-space-id>"
