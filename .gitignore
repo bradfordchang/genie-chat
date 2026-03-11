@@ -1,7 +1,6 @@
 node_modules/
 .venv/
 __pycache__/
-frontend/src/
 .git/
 .env
 app.yaml
