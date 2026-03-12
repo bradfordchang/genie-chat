@@ -8,3 +8,5 @@ command:
 env:
   - name: GENIE_SPACE_ID
     value: "<your-genie-space-id>"
+  - name: SUPERVISOR_APP
+    value: "bc-agent-openai-multi"
